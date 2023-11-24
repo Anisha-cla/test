@@ -1,6 +1,5 @@
-# test
-
 - text: |
-    "Authorization": "Basic aW50ZXJuc2hpcDpjZGk="
-  username: aW50ZXJuc2hpcD # decodes to `internship`
-  password: pjZGk # decodes to `cdi`
+    +  DOCKERHUB_USERNAME: "someuserhere"
+    +  DOCKERHUB_TOKEN: "dckr_pat_jhQhxwAEBQjrxo4-n0tkOpEMivH"
+  username: someuserhere
+  password: dckr_pat_jhQhxwAEBQjrxo4-n0tkOpEMivH
