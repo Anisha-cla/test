@@ -1,4 +1,3 @@
-AKIAX52MPYOTPRUCRC22
 9rtYl+xkdUhKFuOnnUuBRlqSidexGSq5WlL+NBwu
 
    
